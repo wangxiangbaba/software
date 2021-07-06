@@ -1,1 +1,1 @@
-# software
+此仓库为windows,ubuntu系统常用软件存储仓库
